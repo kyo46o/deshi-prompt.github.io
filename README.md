@@ -1,4 +1,4 @@
-# deshi-prompt.github.io
+# でしぷろんぷと
 
-[でしぷろんぷと] (http://deshi-prompt.github.io)
+ホームページは[こちら] (http://deshi-prompt.github.io)です.
 
